@@ -53,6 +53,12 @@ body{
   img{
     height: 150px;
     width: 150px;
-    margin-left: 50%;
+    margin-left: 40%;
+    margin-bottom:0% ;
   }
- 
+  figcaption{
+    text-align: center;
+  }
+ .part4{
+   margin-bottom: 0%; 
+ }
