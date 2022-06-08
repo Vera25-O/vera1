@@ -11,3 +11,4 @@ git clone ssh url
 ##Help
 Email : verawakiiru@gmail.com
 ##License
+[MIT]
