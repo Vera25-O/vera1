@@ -8,6 +8,7 @@ css
 clone the project
 git clone ssh url
 ##Live link 
+https://vera25-o.github.io/vera1/
 ##Help
 Email : verawakiiru@gmail.com
 ##License
