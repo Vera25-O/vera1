@@ -1,15 +1,15 @@
-# Portfolio Website
+# Portfolio Website:
 This project is a coverage of the coding knowledge have got in this journey.
-##Application used
+##Application used:
 Html
 Javasript
 css
-###Installation
+###Installation:
 clone the project
 git clone ssh url
-##Live link 
+##Live link: 
 https://vera25-o.github.io/vera1/
-##Help
+##Help:
 Email : verawakiiru@gmail.com
-##License
+##License:
 [MIT]
